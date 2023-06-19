@@ -10,3 +10,6 @@ want = 1000000.00
 have = 100.00
 need = 999900.00
 
+co_love = true
+az_love = false
+good_choice = true
