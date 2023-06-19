@@ -13,3 +13,7 @@ need = 999900.00
 co_love = true
 az_love = false
 good_choice = true
+
+name ="james"
+birth_place = "Colorado"
+email = "James@yahoo.com"
