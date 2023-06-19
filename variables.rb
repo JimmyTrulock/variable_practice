@@ -20,7 +20,7 @@ email = "James@yahoo.com"
 
 puts "Hello, #{name}!" 
 puts "How is #{birth_place}?"
-puts "you currently have #{have} dollars."
+puts "You currently have #{have} dollars."
 puts "You need #{need} more dollars to reach your goal of #{want}!"
 puts "Since you're #{age} years old, you still have time!"
 puts "Maybe try the lottery with your lucky number #{fav_num}!"
